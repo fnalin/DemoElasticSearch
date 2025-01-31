@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKDemo.Indexing", "ELKDemo.Indexing\ELKDemo.Indexing.csproj", "{D8E0E0E2-3EA7-4B3C-BCE1-8D51C238F833}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE7B5576-1F2E-4152-A5A8-ECDF9AEB75DB}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ELKDemo.UI", "ELKDemo.UI\ELKDemo.UI.csproj", "{4DF62A39-91DC-4F88-8F62-BE0E40F6D7E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E0E0E2-3EA7-4B3C-BCE1-8D51C238F833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E0E0E2-3EA7-4B3C-BCE1-8D51C238F833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E0E0E2-3EA7-4B3C-BCE1-8D51C238F833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E0E0E2-3EA7-4B3C-BCE1-8D51C238F833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF62A39-91DC-4F88-8F62-BE0E40F6D7E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF62A39-91DC-4F88-8F62-BE0E40F6D7E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF62A39-91DC-4F88-8F62-BE0E40F6D7E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF62A39-91DC-4F88-8F62-BE0E40F6D7E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
